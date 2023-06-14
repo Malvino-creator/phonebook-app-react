@@ -6,8 +6,9 @@ import reportWebVitals from './reportWebVitals';
 
 /*Fontawesome icons configuration */
 import "../node_modules/@fortawesome/fontawesome-free/css/all.css"
+import "../node_modules/bootstrap/dist/js/bootstrap.bundle"
 
-/*bootstrap config with css*/
+/*bootstrap 5.3.0 config with css*/
 import "../node_modules/bootstrap/dist/css/bootstrap.css"
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
