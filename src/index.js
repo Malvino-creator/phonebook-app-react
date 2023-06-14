@@ -7,6 +7,8 @@ import reportWebVitals from './reportWebVitals';
 /*Fontawesome icons configuration */
 import "../node_modules/@fortawesome/fontawesome-free/css/all.css"
 
+/*bootstrap config with css*/
+import "../node_modules/bootstrap/dist/css/bootstrap.css"
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
